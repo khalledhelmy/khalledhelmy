@@ -39,7 +39,7 @@
 
 ## 🔥 Pinned Repositories
 <p align="left">
-  <a href="https://github.com/khalledhelmy/your-repo-name">
+  <a href="https://github.com/khalledhelmy/CAT_Pandas_TASK">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=khalledhelmy&repo=CAT_Pandas_TASK&theme=gradient-white" alt="ReadMe Card"/>
   </a>
 </p>
