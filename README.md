@@ -6,7 +6,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=khalledhelmy&style=flat-square&color=blue)
 
-- 🌱 I'm Currently Learning **Matplotlib**.  
+- 🌱 I'm Currently Learning **Machine Learning**.  
 - 💬 Ask me about **data science**.  
 
 
